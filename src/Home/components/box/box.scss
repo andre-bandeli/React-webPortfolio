@@ -1,0 +1,214 @@
+.box {
+    width: 100%;
+    height: 500px;
+    background-color: transparent;
+
+    .container {
+        width: 100%;
+        height: 270px;
+        background-color: transparent;
+        display: flex;
+
+
+        .one {
+            width: 25%;
+            height: 100%;
+            h2 {
+                color: rgba(240, 205, 6, 0.712);
+                font-family: 'Montserrat', sans-serif;
+                text-align: end;
+                margin-top: -20px;
+                margin-right: 10px;
+            }
+
+            video {
+                width: 100%;
+                height: 100%;
+                background-size: cover;
+            }
+            .box-t {
+                width: 80%;
+                height: 60%;
+                margin-left: auto;
+                padding: 20px;
+
+                h3 {
+                    font-family: 'Montserrat', sans-serif;
+                    color: white;
+                    font-size: 13px;
+                    text-align: justify;
+                    padding: 7px;
+                }
+            }
+        }
+        .two  {
+            width: 25%;
+            height: 100%;
+
+            h2 {
+                color: rgba(240, 205, 6, 0.712);
+                font-family: 'Montserrat', sans-serif;
+                text-align: end;
+                margin-top: -20px;
+                margin-right: 10px;
+            }
+            .box-t {
+                width: 80%;
+                height: 60%;
+                margin-left: auto;
+                padding: 20px;
+
+                h3 {
+                    font-family: 'Montserrat', sans-serif;
+                    color: white;
+                    font-size: 13px;
+                    text-align: justify;
+                    padding: 7px;
+                }
+            }
+
+            video {
+                width: 100%;
+                height: 100%;
+                background-size: cover;
+            }
+        }
+        .tree {
+            width: 25%;
+            height: 100%;
+
+            h2 {
+                color: rgba(240, 205, 6, 0.712);
+                font-family: 'Montserrat', sans-serif;
+                text-align: end;
+                margin-top: -20px;
+                margin-right: 10px;
+            }
+            .box-t {
+                width: 80%;
+                height: 60%;
+                margin-left: auto;
+                padding: 20px;
+
+                h3 {
+                    font-family: 'Montserrat', sans-serif;
+                    color: white;
+                    font-size: 13px;
+                    text-align: justify;
+                    padding: 7px;
+                }
+            }
+
+            video {
+                width: 100%;
+                height: 100%;
+                background-size: cover;
+            }
+        }
+        .four {
+            width: 25%;
+            height: 100%;
+
+            h2 {
+                color: rgba(240, 205, 6, 0.712);
+                font-family: 'Montserrat', sans-serif;
+                text-align: end;
+                margin-top: -20px;
+                margin-right: 20px;
+            }
+            .box-t {
+                width: 80%;
+                height: 60%;
+                margin-left: auto;
+                padding: 20px;
+
+                h3 {
+                    font-family: 'Montserrat', sans-serif;
+                    color: white;
+                    font-size: 13px;
+                    text-align: justify;
+                    padding: 7px;
+                }
+            }
+
+            video {
+                width: 100%;
+                height: 100%;
+                background-size: cover;
+            }
+        }
+    }
+    
+}
+
+@media (max-width: 400px) {
+    .box {
+        width: 100%;
+        height: 300px;
+        background-color: transparent;
+    
+        .container {
+            width: 100%;
+            height: 270px;
+            background-color: transparent;
+            display: inline;
+
+            .one {
+                width: 90%;
+                height: 100%;
+                margin-left: auto;
+                margin-right: auto;
+
+                h2 {
+                    visibility: hidden;
+                }
+                
+    
+                video {
+                    width: 100%;
+                    height: 100%;
+                    background-size: cover;
+                }
+            }
+            .two  {
+                width: 90%;
+                height: 100%;
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: -100px;
+                h2 {
+                    visibility: hidden;
+                }
+    
+                video {
+                    width: 100%;
+                    height: 100%;
+                    background-size: cover;
+                }
+            }
+            .tree {
+                width: 90%;
+                height: 100%;
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: -100px;
+                h2 {
+                    visibility: hidden;
+                }
+    
+                video {
+                    width: 100%;
+                    height: 100%;
+                    background-size: cover;
+                }
+            }
+            .four {
+                visibility: hidden;
+            }
+            .five {
+              visibility: hidden;
+            }
+        }
+    }
+    
+}
