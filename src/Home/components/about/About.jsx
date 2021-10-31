@@ -29,12 +29,6 @@ function About() {
                                  da Prof.Dra Silvia Geraldi e Desvu (2018) sob orientação da Prof.Dra Patricia Noronha.
                                  
                         </h2>
-                        <br />
-                        <h2>
-                        Atualmente aplica pesquisas teóricas e corporais junto ao Grupo
-                                  Soma, que deu origem ao projeto “Corpos Ausentes” contemplado pelo PROAC Primeiras Obras (2018). 
-                            Auxilia a Prof Ângela Nolf na disciplina Ateliê de criação IV do curso de dança da UNICAMP.
-                        </h2>
                     </div>
                 </div>
             </div>

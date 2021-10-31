@@ -22,6 +22,8 @@
                 font-size: 100px;
                 color: rgba(255, 255, 255, 0.719);
                 font-family: 'Montserrat', sans-serif;
+                padding: 10%;
+                margin-left: 10%;
             }
         }
 
@@ -30,38 +32,26 @@
             height: 100%;
             background-color: rgba(0, 0, 0, 0.589);
             display: flex;
+            margin-left: 15%;
 
             .txt {
                 width: 60%;
                 height: 80%;
                 margin-left: auto;
                 margin-right: auto;
-                margin-top: 20px;
+                margin-top: 5%;
 
                 h2 {
                     color: rgba(255, 255, 255, 0.534);
                     text-align: justify;
                     font-family: 'Montserrat', sans-serif;
                     font-weight: lighter;
-                    font-size: 14px;
+                    font-size: 90%;
+                    padding: 3%;
+                    margin-top: auto;
                 }
             }
 
-            .txt-2 {
-                width: 60%;
-                height: 80%;
-                margin-left: auto;
-                margin-right: auto;
-                margin-top: 20px;
-
-                h2 {
-                    color: rgba(255, 255, 255, 0.534);
-                    text-align: justify;
-                    font-family: 'Montserrat', sans-serif;
-                    font-weight: lighter;
-                    font-size: 14px;
-                }
-            }
         }
     }
 }

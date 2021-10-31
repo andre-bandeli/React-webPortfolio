@@ -11,14 +11,14 @@ function Contato() {
 
             <div className="redes">
                 
-                <img src="assets/inst.png" alt="" />
+                <img src="assets/instagram.png" alt="" />
                    <h2>INSTAGRAM: @henriqueHokamura </h2>
                    
             </div>
 
             <div className="redes">
                 
-                <img src="assets/whats.png" alt="" />
+                <img src="assets/telefones.png" alt="" />
                     <h2>Iniciar conversa no WhatsApp </h2>
                    
             </div>
