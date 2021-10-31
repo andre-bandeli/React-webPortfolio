@@ -1,11 +1,13 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import Navbar from '../Home/components/Navbar/Navbar';
+import Container from './components/container/Container';
+import './sobre.scss'
 
 const Sobre = () => {
     return (
-        <div>
-            <h1>Sobre</h1>
-            <Link to="/">retornar a página inicial</Link>
+        <div className='sobre'>
+            <Navbar/>
+            <Container/>
         </div>
     );
 }
