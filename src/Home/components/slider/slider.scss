@@ -163,11 +163,11 @@
     .slider {
         .container {
             width: 90%;
-            height: 130vh;
+            height: 120%;
+            margin-bottom: 20%;
             background-color: rgba(0, 0, 0, 0.527);
             margin-left: 5%;
             margin-right: 5%;
-            margin-top: 100px;
             display: inline-block;
 
             iframe {
@@ -190,6 +190,11 @@
                     font-size: 30px;
                     color: white;
                     padding: 10px;
+                }
+                h2 {
+                    font-family: 'Montserrat', sans-serif;
+                    font-size: 15px;
+                    color: rgba(255, 255, 255, 0.877);
                 }
             }
         }
