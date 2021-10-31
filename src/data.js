@@ -2,93 +2,83 @@ export const featuredPortfolio = [
     {
       id: 1,
       title: "Tamara Cubas",
-      legend: "Multitude | 2016 | Intérprete",
+      legenda: "Multitude | 2016 | Intérprete",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://cdn.bitrix24.es/b4674685/landing/aec/aec7173388787693f42075382bd4a10a/Multitud-por-Rafael-Arenas_1x.jpg",
     },
     {
       id: 2,
-      title: "Rampa UI Design",
+      title: " Toque na Pele",
+      legenda: "Indenpendente | 2017 | Intérprete",
       img:
-        "https://cdn.dribbble.com/users/702789/screenshots/15054318/media/4ea5d492b7b07eebc9528ff960794879.png?compress=1&resize=1200x900",
+        "https://static.wixstatic.com/media/3cdb69_36e7e380ac1d4a83ace33f9c4d14df93~mv2_d_5184_3456_s_4_2.jpg/v1/fill/w_641,h_427,al_c,q_80,usm_0.66_1.00_0.01/3cdb69_36e7e380ac1d4a83ace33f9c4d14df93~mv2_d_5184_3456_s_4_2.webp",
     },
     {
       id: 3,
-      title: "E-commerce Web Design",
+      title: "Quando você me pergunta o que aconteceu e eu respondo nada",
       img:
-        "https://cdn.dribbble.com/users/1387827/screenshots/15466426/media/deb2dca6762cd3610321c98bfccb0b72.png?compress=1&resize=1200x900",
+        "https://static.wixstatic.com/media/3cdb69_b5c866f4739e40fd82932674b4075804~mv2.jpeg/v1/fill/w_214,h_427,al_c,q_80,usm_0.66_1.00_0.01/3cdb69_b5c866f4739e40fd82932674b4075804~mv2.webp",
     },
     {
       id: 4,
-      title: "Relax Mobile App",
+      title: "Silvia Geraldi",
+      legenda: "Atêlie de criação IV | 2017 | Intérprete/Criador",
       img:
-        "https://cdn.dribbble.com/users/4095861/screenshots/15467417/media/d6a15c416626f12b31fa5ca1db192572.png?compress=1&resize=1200x900",
+        "https://static.wixstatic.com/media/3cdb69_5723b6bea4ff4c5d95a0800eea53d70a~mv2.jpeg/v1/fill/w_285,h_427,al_c,q_80,usm_0.66_1.00_0.01/3cdb69_5723b6bea4ff4c5d95a0800eea53d70a~mv2.webp",
     },
     {
       id: 5,
-      title: "Hero Web Design",
+      title: "Patricia Noronha",
+      legenda: "Desvu | 2018 | Intérprete/Criador",
       img:
-        "https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b3b15b25b1e190d081abdbbf947cf.png?compress=1&resize=1200x900",
+        "https://static.wixstatic.com/media/3cdb69_423dfb70395e4fde84fabc2bdd17b7ec~mv2_d_5184_3456_s_4_2.jpg/v1/fill/w_641,h_427,al_c,q_80,usm_0.66_1.00_0.01/3cdb69_423dfb70395e4fde84fabc2bdd17b7ec~mv2_d_5184_3456_s_4_2.webp",
     },
     {
       id: 6,
-      title: "Banking App",
+      title: "Grupo Soma",
+      legenda: "Corpos Ausente | 2018 |  Intérprete/Criador/Diretor",
       img:
-        "https://cdn.dribbble.com/users/3307260/screenshots/15468444/media/447b4501f7a145b05e11c70199a9c417.jpg?compress=1&resize=1200x900",
+        "https://static.wixstatic.com/media/3cdb69_6968e323f7de4179bee4db4efaf9e515~mv2_d_5184_3456_s_4_2.jpg/v1/fill/w_641,h_427,al_c,q_80,usm_0.66_1.00_0.01/3cdb69_6968e323f7de4179bee4db4efaf9e515~mv2_d_5184_3456_s_4_2.webp",
     },
   ];
   
   export const webPortfolio = [
     {
       id: 1,
-      title: "Web Social Media App",
+      title: "Fausto Ribeiro",
+      legenda: "Site Specific   |   2017  |   Performer",
       img: "https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b3b15b25b1e190d081abdbbf947cf.png?compress=1&resize=1200x900",
     },
     {
       id: 2,
-      title: "Web Rampa UI Design",
+      title: "Gustavo Ciríaco",
+      legenda: "Corpos Desobedientes | 2017 |  Performer",
       img: "https://cdn.dribbble.com/users/3967258/screenshots/15463803/media/4fddb9a2caf3b3bd634060f706a91e73.png?compress=1&resize=1200x900",
     },
-    {
-      id: 3,
-      title: "Web E-commerce Design",
-      img: "https://cdn.dribbble.com/users/3637068/screenshots/15467010/media/69a3279182b75365013fe285733d1122.png?compress=1&resize=1200x900",
-    },
-    {
-      id: 4,
-      title: "Web Relax App",
-      img: "https://cdn.dribbble.com/users/2264844/screenshots/15463998/media/d85e92a332c41094f68e1f716884f7ce.jpg?compress=1&resize=1200x900",
-    },
-    {
-      id: 5,
-      title: "Web Design",
-      img: "https://cdn.dribbble.com/users/387658/screenshots/15458608/media/e92ec1dd33dd1170ae3dc9c5272f2693.jpg?compress=1&resize=1200x900",
-    },
-    {
-      id: 6,
-      title: "Web Banking App",
-      img: "https://cdn.dribbble.com/users/6384483/screenshots/15468426/media/ce9479fa1f8dba3a4a49840d76e55e31.png?compress=1&resize=1200x900",
-    },
+    
   ];
   
   export const mobilePortfolio = [
     {
       id: 1,
-      title: "Mobile Social Media App",
+      title: "Karina Almeida",
+      legenda: "Acredite antes que seja verdade   |  2017 |   Intérprete",
       img:
-        "https://cdn.dribbble.com/users/2597268/screenshots/15468893/media/44313553d73ba41580f1df69749bba28.jpg?compress=1&resize=1200x900",
+        "assets/1.jpg",
     },
     {
       id: 2,
-      title: "Mobile Rampa UI Design",
+      title: "Cartas aos Aliéns",
+      legenda: "Independente | 2018 | Diretor",
       img:
-        "https://cdn.dribbble.com/users/5920881/screenshots/15463142/media/b5a460223798bd85d835710806e2f3dd.png?compress=1&resize=1200x900",
+        "assets/3.png",
     },
     {
       id: 3,
-      title: "Mobile E-commerce Design",
+      title: "DESVU",
+      legenda: "Independente | 2018 | Diretor",
       img:
-        "https://cdn.dribbble.com/users/1998175/screenshots/15459384/media/48ac2b43ebe81ba0866afea1383cc939.png?compress=1&resize=1200x900",
+        "assets/8.jpg",
     },
     {
       id: 4,

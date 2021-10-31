@@ -78,6 +78,7 @@ export default function Portfolio() {
               alt=""
             />
             <h3>{d.title}</h3>
+            <h4>{d.legenda}</h4>
           </div>
         ))}
       </div>
