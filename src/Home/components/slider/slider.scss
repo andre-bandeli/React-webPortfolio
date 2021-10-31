@@ -2,27 +2,10 @@
     width: 100%;
     height: 40vh;
     background-color: transparent;
-    margin-top: 100vh;
+    margin-top: 200vh;
     margin-bottom: 30%;
     display: inline-block;
 
-    .txt {
-        width: 80%;
-        height: 20%;
-        background-color: rgba(0, 0, 0, 0.699);
-        margin-top: 100px;
-        margin-left: auto;
-        margin-right: auto;
-        border-bottom: 1px solid rgba(235, 213, 14, 0.466);
-
-        h1 {
-            text-align: center;
-            font-size: 25px;
-            padding: 1.5%;
-            color: white;
-            font-family: 'Montserrat', sans-serif;
-        }
-    }
 
     .container {
         width: 80%;
@@ -43,7 +26,7 @@
 
         .left {
             width: 30%; 
-            max-height: 65vh;
+            height: 80%;
             margin-left: 5%;
             margin-right: 5%;
             margin-top: 5%;
@@ -59,9 +42,9 @@
 
             h2 {
                 font-family: 'Montserrat', sans-serif;
-                font-size: 1.3vw;
-                color: rgba(157, 224, 215, 0.582);
-                padding: 10px;
+                font-size: 17px;
+                color: rgba(248, 252, 251, 0.603);
+                padding: 5px;
                 margin-left: auto;
                 margin-right: auto;
                 text-align: justify;
@@ -144,20 +127,6 @@
     }
 }
 
-@media (max-width: 1879px) {
-    .slider {
-        .container {
-            width: 80%;
-            height: 70%;
-            background-color: rgba(0, 0, 0, 0.521);
-            .left {
-                width: 80%; 
-                height: 55%;
-            }
-        }
-    
-    }
-}
 
 @media (max-width: 400px) {
     .slider {

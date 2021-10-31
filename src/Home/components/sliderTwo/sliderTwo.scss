@@ -3,7 +3,7 @@
     height: 100vh;
     background-color: transparent;
     display: inline-block;
-    margin-top: -10vh;
+    margin-top: -20vh;
 
 
     .container {
@@ -52,15 +52,13 @@
                 border: 1px solid rgba(202, 11, 219, 0.445);
                 border-radius: 5px;
                 margin-top: 25px;
-                a {
-                    text-decoration: none;
-                    color: rgba(255, 255, 255, 0.534);
-                }
+                color: white;
+               
             }
 
             button:hover {
                 background-color: rgba(224, 14, 172, 0.336);
-                transition: .7s ease-in-out;
+                transition: .2s ease-in-out;
             }
         }
 

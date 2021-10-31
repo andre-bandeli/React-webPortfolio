@@ -19,6 +19,9 @@ function Last() {
     
   return (
     <div className='Last'>
+      <div className="txt">
+                <h1>Produções Audio Visuais</h1>
+            </div>
         <div className='container'>
             <div className="left">
                 <h2>EM BREVE</h2>

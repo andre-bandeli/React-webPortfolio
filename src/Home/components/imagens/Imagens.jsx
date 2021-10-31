@@ -4,6 +4,9 @@ import "./imagens.scss"
 function Imagens() {
     return (
         <div className="im">
+             <div className="txt">
+                <h1>Galeria de Imagens </h1>
+            </div>
             <div className="container">
                 <div className="top">
                     <div className="c1">
@@ -34,9 +37,13 @@ function Imagens() {
                     <img src="assets/1.png" alt="" />
                     </div>
                 </div>
-                
-               
+
+                <div className="box">
+                    <h3>visualizar galeria completa</h3>
+                </div>
             </div>
+
+            
         </div>
     )
 }

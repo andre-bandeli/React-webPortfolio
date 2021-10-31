@@ -15,8 +15,8 @@ const Home = () =>{
     <div className='home'>
       <Navbar/>
       <Header/>
-      <Slider />
       <Last />
+      <Slider />
       <SliderTwo />
       <Box />
       <Imagens />
