@@ -66,7 +66,7 @@ export default function Container() {
 
                 <div className="top">
                     <div className="c1">
-                    <video src="assets/coronabeat.mp4" autoPlay muted loop ></video>
+                       <video src="assets/coronabeat.mp4" autoPlay muted loop ></video>
                     </div>
                     <div className="c2">
                     <img src="assets/2.jpg" alt="" />

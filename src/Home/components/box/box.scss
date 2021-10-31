@@ -162,22 +162,29 @@
 
 @media (max-width: 400px) {
     .box {
-        margin-top: 100vh;
+        margin-top: 90vh;
         width: 100%;
-        height: 300px;
+        height: auto;
         background-color: transparent;
+        display: inline-block;
+
     
         .container {
             width: 100%;
-            height: 270px;
+            height: auto;
             background-color: transparent;
-            display: inline;
+            display: block;
+            padding: 5%;
 
             .one {
                 width: 90%;
-                height: 100%;
-                margin-left: auto;
-                margin-right: auto;
+                height: 450px;
+                margin-left: 2%;
+                margin-right: 2%;
+                
+                .box-t {
+                    visibility: hidden;
+                }
 
                 h2 {
                     visibility: hidden;
@@ -193,12 +200,14 @@
             .two  {
                 width: 90%;
                 height: 100%;
-                margin-left: auto;
-                margin-right: auto;
-                margin-top: -100px;
-                h2 {
+                margin-top: -90px;
+                margin-left: 2%;
+                margin-right: 2%;
+
+                .box-t {
                     visibility: hidden;
                 }
+               
     
                 video {
                     width: 100%;
@@ -209,13 +218,13 @@
             .tree {
                 width: 90%;
                 height: 100%;
-                margin-left: auto;
-                margin-right: auto;
-                margin-top: -100px;
-                h2 {
+                margin-top: -70px;
+                margin-left: 2%;
+                margin-right: 2%;
+
+                .box-t {
                     visibility: hidden;
                 }
-    
                 video {
                     width: 100%;
                     height: 100%;
