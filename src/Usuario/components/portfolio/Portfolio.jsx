@@ -18,20 +18,16 @@ export default function Portfolio() {
       title: "Dança",
     },
     {
-      id: "performance",
-      title: "Performance",
-    },
-    {
       id: "audioVisual",
       title: "Audio Visual",
     },
     {
       id: "workshops",
-      title: "Workshops",
+      title: "Workshops e Performances",
     },
     {
       id: "premios",
-      title: "Prêmios",
+      title: "Prêmiações e Editais",
     },
   ];
 
@@ -39,9 +35,6 @@ export default function Portfolio() {
     switch (selected) {
       case "danca":
         setData(featuredPortfolio);
-        break;
-      case "performance":
-        setData(webPortfolio);
         break;
       case "audioVisual":
         setData(mobilePortfolio);
