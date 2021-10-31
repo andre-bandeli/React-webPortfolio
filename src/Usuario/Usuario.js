@@ -1,12 +1,16 @@
 import React from 'react';
-import { Link } from "react-router-dom";
 import "./usuario.scss";
 import Navbar from '../Home/components/Navbar/Navbar';
+import Portfolio from './components/portfolio/Portfolio';
+import PortfolioList from './components/portfolioList/PortfolioList';
+
 
 const Usuario = () => {
     return (
-        <div>
+        <div className='usuario'>
             <Navbar />
+            <Portfolio />
+            <PortfolioList />
         </div>
     );
 }

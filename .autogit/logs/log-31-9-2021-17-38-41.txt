@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Sun Oct 31 2021 17:38:41 GMT-0300 (Brasilia Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Home/components/Navbar/Navbar.jsx
+* src/Usuario/Usuario.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
