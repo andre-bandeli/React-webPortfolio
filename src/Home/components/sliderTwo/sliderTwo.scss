@@ -8,10 +8,10 @@
 
     .container {
         width: 80%;
-        height: 80vh;
+        height: 80%;
         background-color: rgba(12, 12, 12, 0.616);
-        margin-left: auto;
-        margin-right: auto;
+        margin-left: 10%;
+        margin-right: 10%;
         margin-top: 100px;
         border-radius: 10px;
         display: flex;
@@ -25,11 +25,10 @@
             margin-top: 7%;
             border-radius: 10px;
 
-            
-
+        
             h2 {
                 font-family: 'Montserrat', sans-serif;
-                font-size: 14px;
+                font-size: large;
                 color: rgba(157, 224, 215, 0.582);
                 padding: 10px;
                 margin-left: auto;

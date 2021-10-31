@@ -1,14 +1,14 @@
 .slider {
     width: 100%;
-    height: 50vh;
+    height: 40vh;
     background-color: transparent;
     margin-top: 100vh;
-    margin-bottom: 20%;
+    margin-bottom: 30%;
     display: inline-block;
 
     .txt {
         width: 80%;
-        height: 15%;
+        height: 20%;
         background-color: rgba(0, 0, 0, 0.699);
         margin-top: 100px;
         margin-left: auto;
@@ -18,7 +18,7 @@
         h1 {
             text-align: center;
             font-size: 25px;
-            padding: 1%;
+            padding: 1.5%;
             color: white;
             font-family: 'Montserrat', sans-serif;
         }
@@ -26,7 +26,7 @@
 
     .container {
         width: 80%;
-        height: 80vh;
+        height: 80%;
         background-color: rgba(12, 12, 12, 0.616);
         margin-left: 10%;
         margin-right: 10%;
@@ -43,10 +43,10 @@
 
         .left {
             width: 30%; 
-            max-height: 40vh;
+            max-height: 65vh;
             margin-left: 5%;
             margin-right: 5%;
-            margin-top: 7%;
+            margin-top: 5%;
             animation: colorBorder 2s ease infinite alternate-reverse;
             border-radius: 10px;
 
@@ -84,15 +84,12 @@
                 border: 1px solid rgba(255, 0, 0, 0.199);
                 border-radius: 5px;
                 margin-top: 25px;
-                a {
-                    text-decoration: none;
-                    color: rgba(255, 255, 255, 0.534);
-                }
+                color: white;
             }
 
             button:hover {
                 background-color: rgba(224, 14, 172, 0.336);
-                transition: .7s ease-in-out;
+                transition: .2s ease-in-out;
             }
         }
 
@@ -144,6 +141,21 @@
                 transition: 3s ease-in-out;
             }
         }
+    }
+}
+
+@media (max-width: 1879px) {
+    .slider {
+        .container {
+            width: 80%;
+            height: 70%;
+            background-color: rgba(0, 0, 0, 0.521);
+            .left {
+                width: 80%; 
+                height: 55%;
+            }
+        }
+    
     }
 }
 
