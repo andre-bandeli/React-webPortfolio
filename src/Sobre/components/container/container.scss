@@ -4,9 +4,9 @@
     position: absolute;
     width: 90%;
     height: 70vh;
-    background-color: red;
     margin-left: 5%;
     margin-right: 5%;
+    display: inline-block;
 
     .top {
         display: flex;
@@ -28,6 +28,20 @@
             }
             img:hover {
                 transform: scale(1);
+            }
+
+            video {
+                background-size: cover;
+                width: 120%;
+                height: 100%;
+                transform: scale(0.9);
+                transition: .5 all ease;
+                border-radius: 2%;
+                position: relative;
+            }
+            video:hover {
+                transform: scale(1.7);
+                z-index: 1000000;
             }
         }
         
@@ -53,6 +67,20 @@
             }
             img:hover {
                 transform: scale(1);
+            }
+
+            video {
+                background-size: cover;
+                width: 120%;
+                height: 100%;
+                transform: scale(0.9);
+                transition: .5 all ease;
+                border-radius: 2%;
+                position: relative;
+            }
+            video:hover {
+                transform: scale(1.7);
+                z-index: 1000000;
             }
         }
     }

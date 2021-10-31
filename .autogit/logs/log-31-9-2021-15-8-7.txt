@@ -1,0 +1,26 @@
+-------------------- Auto-Git Log --------------------
+		Sun Oct 31 2021 15:08:07 GMT-0300 (Brasilia Standard Time)
+------------------------------------------------------
+
+Modified files:
+* .gitignore
+* package-lock.json
+* package.json
+* src/Home/components/box/box.scss
+* src/Home/components/sliderTwo/sliderTwo.scss
+* src/Sobre/Sobre.js
+
+
+Created files:
+* .autogit/autogit.json
+* src/Sobre/1.jpg
+* src/Sobre/components/container/Container.jsx
+* src/Sobre/components/container/container.scss
+* src/Sobre/fundovideos.jpeg
+* src/Sobre/sobre.scss
+
+
+Deleted files:
+
+
+Renamed files:

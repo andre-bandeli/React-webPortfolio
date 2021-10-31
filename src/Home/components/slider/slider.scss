@@ -3,11 +3,12 @@
     height: 50vh;
     background-color: transparent;
     margin-top: 100vh;
+    margin-bottom: 20%;
     display: inline-block;
 
     .txt {
         width: 80%;
-        height: 40px;
+        height: 15%;
         background-color: rgba(0, 0, 0, 0.699);
         margin-top: 100px;
         margin-left: auto;
@@ -17,6 +18,7 @@
         h1 {
             text-align: center;
             font-size: 25px;
+            padding: 1%;
             color: white;
             font-family: 'Montserrat', sans-serif;
         }
@@ -26,8 +28,8 @@
         width: 80%;
         height: 80vh;
         background-color: rgba(12, 12, 12, 0.616);
-        margin-left: auto;
-        margin-right: auto;
+        margin-left: 10%;
+        margin-right: 10%;
         margin-top: 0px;
         border-radius: 10px;
         display: flex;
@@ -41,7 +43,7 @@
 
         .left {
             width: 30%; 
-            height: 75%;
+            max-height: 40vh;
             margin-left: 5%;
             margin-right: 5%;
             margin-top: 7%;
@@ -57,7 +59,7 @@
 
             h2 {
                 font-family: 'Montserrat', sans-serif;
-                font-size: 14px;
+                font-size: 1.3vw;
                 color: rgba(157, 224, 215, 0.582);
                 padding: 10px;
                 margin-left: auto;
