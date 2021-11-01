@@ -14,7 +14,7 @@ function Navbar() {
                    <li> <Link to="/"> Home </Link></li>
                    <li> <Link to="/sobre"> Galeria  </Link></li>
                    <li> <Link to="/usuario"> Portfolio </Link></li>
-                   <li> Acadêmico</li>
+                   <li> <Link to="/academico"> Acadêmico </Link></li>
                    <li> Contato  </li>
                 </nav>
                 <div id="nav">
