@@ -1,5 +1,6 @@
 import React from 'react'
 import "./imagens.scss"
+import { Link } from 'react-router-dom';
 
 function Imagens() {
     return (
@@ -39,7 +40,7 @@ function Imagens() {
                 </div>
 
                 <div className="box">
-                    <h3>visualizar galeria completa</h3>
+                 <Link to="/sobre"> <h3>visualizar galeria completa</h3></Link> 
                 </div>
             </div>
 
