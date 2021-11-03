@@ -4,7 +4,6 @@ import { Route, BrowserRouter } from "react-router-dom";
 import Home from "./Home/Home";
 import Sobre from "./Sobre/Sobre";
 import Usuario from "./Usuario/Usuario";
-import Academico from "./Academico/Academico";
 
 const Routes = () => {
    return(
@@ -12,7 +11,6 @@ const Routes = () => {
            <Route component = { Home }  path="/" exact />
            <Route component = { Sobre }  path="/sobre" />
            <Route component = { Usuario }  path="/usuario" />
-           <Route component = { Academico }  path="/academico" />
        </BrowserRouter>
    )
 }
