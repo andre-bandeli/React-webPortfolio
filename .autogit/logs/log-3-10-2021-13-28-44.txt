@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Wed Nov 03 2021 13:28:44 GMT-0300 (Brasilia Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Home/components/imagens/imagens.scss
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
