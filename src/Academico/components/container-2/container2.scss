@@ -1,6 +1,8 @@
-.container {
+.container2 {
     width: 80%;
     height: 70vh;
+    margin-top: 120vh;
+    position: absolute;
     background-color: transparent;
     margin-left: 10%;
     margin-right: 10%;
@@ -10,10 +12,10 @@
     ::-webkit-scrollbar {
         width: 3px;
         height: 10px;
-        background: #0a020242;
+        background: transparent;
     }
     ::-webkit-scrollbar-thumb {
-        background: #04a8da1e;
+        background: #e005ce41;
     }
 
     .item {

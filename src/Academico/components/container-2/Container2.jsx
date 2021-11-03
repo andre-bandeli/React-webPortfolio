@@ -1,9 +1,9 @@
 import React from 'react'
-import "./container.scss"
+import "./container2.scss"
 
-export default function Container() {
+export default function Container2() {
     return (
-        <div className='container'>
+        <div className='container2'>
             <div className="item">
                 <div className="item-1">
                     <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
