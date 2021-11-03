@@ -4,9 +4,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-## `Dependências
+## Dependências
 
-### `Node.JS
+### Node.JS
 
 $ sudo apt install npm
 $ npm --version
@@ -20,7 +20,7 @@ npm install ityped from: https://github.com/luisvinicius167/ityped
 npm install node-sass --save
 
 
-### `npm start`
+### npm start
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
