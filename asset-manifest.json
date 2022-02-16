@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58cba489.chunk.css",
+    "main.js": "/static/js/main.89c2ceb8.chunk.js",
+    "main.js.map": "/static/js/main.89c2ceb8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fd585f71.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fd585f71.js.map",
+    "static/js/2.34d7376f.chunk.js": "/static/js/2.34d7376f.chunk.js",
+    "static/js/2.34d7376f.chunk.js.map": "/static/js/2.34d7376f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.58cba489.chunk.css.map": "/static/css/main.58cba489.chunk.css.map",
+    "static/js/2.34d7376f.chunk.js.LICENSE.txt": "/static/js/2.34d7376f.chunk.js.LICENSE.txt",
+    "static/media/home.scss": "/static/media/fundosite.a583ae8e.jpg",
+    "static/media/furia.ca6900ae.mp4": "/static/media/furia.ca6900ae.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd585f71.js",
+    "static/js/2.34d7376f.chunk.js",
+    "static/css/main.58cba489.chunk.css",
+    "static/js/main.89c2ceb8.chunk.js"
+  ]
+}
