@@ -8,11 +8,11 @@
 
     .container {
         width: 80%;
-        height: 80%;
+        height: 60%;
         background-color: rgba(12, 12, 12, 0.616);
         margin-left: 10%;
         margin-right: 10%;
-        margin-top: 100px;
+        margin-top: 50px;
         border-radius: 10px;
         display: flex;
         overflow: hidden;
@@ -27,10 +27,12 @@
 
         
             h2 {
-                font-family: 'Montserrat', sans-serif;
+                font-family: 'Open Sans', sans-serif;
                 font-size: large;
                 color: rgba(157, 224, 215, 0.582);
-                padding: 10px;
+                padding: 5px;
+                font-size: 20px;
+                margin-top: 7vh;
                 margin-left: auto;
                 margin-right: auto;
                 text-align: justify;
@@ -44,7 +46,7 @@
                 animation: fontColor 5s ease infinite alternate-reverse;
             }
             button {
-                width: 100px;
+                width: 150px;
                 height: 40px;
                 background-color: transparent;
                 margin-left: 30%;
@@ -69,7 +71,8 @@
             iframe {
                 width: 100%;
                 height: 415px;
-                margin-top: 50px;
+                margin-top: 10%;
+                margin-bottom: 10%;
                 margin-left:-2%;
                 margin-right: 5%;
             }

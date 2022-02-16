@@ -10,7 +10,7 @@ function Box() {
                <h2>CORPO</h2>
                <div className='box-t'>
                     <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum sequi laborum dolorem eaque. 
-                        Quae nihil eos omnis enim officia cupiditate. Officia, blanditiis facere qui fuga amet assumenda aut delectus corrupti!</h3>
+                        Quae nihil eos omnis enim, blanditii!</h3>
                </div>
            </div>
            <div className="two">
@@ -18,7 +18,7 @@ function Box() {
                 <h2>DESVU</h2>
                 <div className='box-t'>
                 <h3> Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum sequi laborum dolorem eaque. 
-                        Quae nihil eos omnis enim officia cupiditate. Officia, blanditiis facere qui fuga amet assumenda aut delectus corrupti!</h3>
+                </h3>
                </div>
            </div>
            <div className="tree">
@@ -26,7 +26,7 @@ function Box() {
                 <h2>PROAC</h2>
                 <div className='box-t'>
                 <h3>  Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum sequi laborum dolorem eaque. 
-                        Quae nihil eos omnis enim officia cupiditate. Officia, blanditiis facere qui fuga amet assumenda aut delectus corrupti!</h3>
+                        Quae nihil eos!</h3>
                </div>
            </div>
            <div className="four">
@@ -34,7 +34,8 @@ function Box() {
                 <h2>CORONABEAT</h2>
                 <div className='box-t'>
                 <h3> Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum sequi laborum dolorem eaque. 
-                        Quae nihil eos omnis enim officia cupiditate. Officia, blanditiis facere qui fuga amet assumenda aut delectus corrupti!</h3>
+                        Quae nihil eos omnis eni Officia, blanditiis 
+                        !</h3>
                </div>
            </div>
        </div>

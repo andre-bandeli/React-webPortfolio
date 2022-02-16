@@ -12,6 +12,8 @@
   h1 {
     font-size: 50px;
     color: white;
+    font-family: 'Open Sans', sans-serif;
+
 
     @include mobile{
       font-size: 20px;
@@ -25,6 +27,8 @@
     display: flex;
     color: white;
 
+    
+
     @include mobile{
       margin: 10px 0;
       flex-wrap: wrap;
@@ -33,20 +37,21 @@
   }
 
   .container {
-    width: 70%;
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
     margin-top: 8%;
+  
 
     @include mobile{
       width: 100%;
     }
 
     .item {
-      width: 220px;
-      height: 150px;
+      width: 380px;
+      height: 250px;
       border-radius: 20px;
       margin: 10px 20px;
       display: flex;
@@ -67,6 +72,7 @@
         font-size: 25px;
         color: white;
         margin-top: -10%;
+        font-family: 'Open Sans', sans-serif;
       }
       h4 {
         position: absolute;
@@ -74,6 +80,7 @@
         color: white;
         margin-top: 40%;
         margin-left: 10%;
+        font-family: 'Open Sans', sans-serif;
       }
 
       img {

@@ -13,12 +13,12 @@ import "./home.scss"
 const Home = () =>{
   return (
     <div className='home'>
-      <Navbar/>
-      <Header/>
-      <Last />
-      <Slider />
-      <SliderTwo />
-      <Box />
+      <Navbar/>,
+      <Header/>,
+      <Last />,
+      <Slider />,
+      <SliderTwo />,
+      <Box />,
       <Imagens />
       <About />
       <Contato />

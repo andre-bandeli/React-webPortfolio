@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Open+Sans:wght@300;400;500&family=Sanchez&display=swap');
+
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -38,7 +41,7 @@ time, mark, audio, video {
         margin-top: 1%;
 
         h1 {
-            font-family: 'Dosis', sans-serif;
+            font-family: 'Open Sans', sans-serif;
             font-size: 50px;
             text-align: center;
             color: rgba(248, 11, 90, 0.61);
@@ -56,16 +59,16 @@ time, mark, audio, video {
             display: flex;
 
             li {
+                position: relative;
                 text-decoration: none;
                 list-style: none;
                 justify-content: space-between;
                 padding: 5px;
-                margin-left: 10%;
-                margin-top: 0%;
-                font-size: 15px;
-                font-family: 'Montserrat', sans-serif;
                 margin-left: auto;
-                margin-right: auto;
+                margin-top: 0%;
+                font-size: 22px;
+                font-family: 'Open Sans', sans-serif;
+
 
                 a {
                     text-decoration: none;
@@ -74,7 +77,8 @@ time, mark, audio, video {
                 }
                 a:hover {
                     text-decoration: none;
-                    color: rgba(199, 8, 151, 0.836);
+                    color: rgba(255, 255, 255, 0.836);
+                    font-weight: 600;
                     transition: .2s ease-in-out;
                 }
                 
