@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-webPortfolio/static/css/main.a93a0ab5.chunk.css",
+    "main.js": "/React-webPortfolio/static/js/main.89c2ceb8.chunk.js",
+    "main.js.map": "/React-webPortfolio/static/js/main.89c2ceb8.chunk.js.map",
+    "runtime-main.js": "/React-webPortfolio/static/js/runtime-main.ce25bc3f.js",
+    "runtime-main.js.map": "/React-webPortfolio/static/js/runtime-main.ce25bc3f.js.map",
+    "static/js/2.34d7376f.chunk.js": "/React-webPortfolio/static/js/2.34d7376f.chunk.js",
+    "static/js/2.34d7376f.chunk.js.map": "/React-webPortfolio/static/js/2.34d7376f.chunk.js.map",
+    "index.html": "/React-webPortfolio/index.html",
+    "static/css/main.a93a0ab5.chunk.css.map": "/React-webPortfolio/static/css/main.a93a0ab5.chunk.css.map",
+    "static/js/2.34d7376f.chunk.js.LICENSE.txt": "/React-webPortfolio/static/js/2.34d7376f.chunk.js.LICENSE.txt",
+    "static/media/home.scss": "/React-webPortfolio/static/media/fundosite.a583ae8e.jpg",
+    "static/media/furia.ca6900ae.mp4": "/React-webPortfolio/static/media/furia.ca6900ae.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce25bc3f.js",
+    "static/js/2.34d7376f.chunk.js",
+    "static/css/main.a93a0ab5.chunk.css",
+    "static/js/main.89c2ceb8.chunk.js"
+  ]
+}
